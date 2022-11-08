@@ -1,0 +1,86 @@
+.container{
+    display: flex;
+    height: 900px;
+}
+
+.contain{
+    margin:10px 200px;
+    background-color: rgb(227, 227, 227);
+    
+    
+    
+}
+p{
+    text-align: center;
+    font-size: 20px;
+}
+.frm{
+  display: flex;
+  justify-content: space-between;
+}
+.image{
+    width: 500px;
+    margin:30px;
+}
+.from{
+    margin: 50px;
+    width:100%;
+}
+.come{
+   
+    margin:30px;
+}
+
+#inputer{
+    width: 380px;
+    height: 40px;
+    margin-top: 5px;
+    color: rgb(133, 133, 133);
+    padding-left: 10px;
+
+}
+
+#message-text{
+    margin-top: 5px;
+    color: rgb(133, 133, 133);
+    padding-left: 10px;
+    padding-top: 10px;
+
+
+}
+
+.sub{
+    background-color: rgb(55, 194, 60);
+    color: white;
+    border: 0;
+    padding:10px;
+    
+}
+
+#email-selector{
+    width: 395px;
+    background-color:rgb(227, 227, 227) ;
+    margin-top: 5px;
+    height: 40px;
+}
+.navigate{
+    display: block;
+    text-align:left;
+    background-color: white;
+    padding: 5px 0 5px 0;
+}
+
+.navigate a {
+    text-decoration: none;
+    color: black;
+    margin: 70px;
+    text-align: center;
+}
+
+.navigate a:hover{
+    color: forestgreen;
+}
+
+
+
+

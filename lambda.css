@@ -1,0 +1,109 @@
+.container{
+    display: flex;
+}
+
+.contain{
+    margin:10px 200px;
+}
+
+
+
+.navigate{
+    display: block;
+    text-align:left;
+    background-color: white;
+    padding: 5px 0 5px 0;
+}
+
+.navigate a {
+    text-decoration: none;
+    color: black;
+    margin: 70px;
+    text-align: center;
+}
+
+.navigate a:hover{
+    color: forestgreen;
+}
+
+.lambda{
+    background-size: contain;
+    
+}
+
+.jumbo{
+    width:100%;
+    padding: 10px 0;
+
+}
+
+.The{
+    display:flex;
+    text-align: justify;
+    
+    
+    
+}
+
+.future{
+    margin: 10px;
+    width:fit-content;
+    
+    
+}
+
+hr{
+    border: 1px dashed black;
+}
+
+.flex-container{
+    display:flex;
+    text-align: center;
+    
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+    
+}
+
+
+
+
+.flex-items {
+    background-color: black;
+    color: white;
+    width: 15%;
+    height: 150px;
+    margin: 20px;
+}
+
+.yes{
+    display:flex;
+    text-align: justify;
+    
+}
+
+.no{
+    margin: 10px;
+
+}
+
+footer{
+    display: block;
+    text-align:left;
+    background-color: black;
+    padding: 10px 0;
+    margin-top: 30px;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+    margin: 30px;
+    text-align: center;
+}
+
+footer a:hover{
+    color: red;
+}

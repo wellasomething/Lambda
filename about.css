@@ -1,0 +1,108 @@
+.container{
+    display: flex;
+}
+
+.contain{
+    margin:10px 200px;
+}
+
+.navigate{
+    display: block;
+    text-align:left;
+    background-color: white;
+    padding: 5px 0 5px 0;
+}
+
+.navigate a {
+    text-decoration: none;
+    color: black;
+    margin: 70px;
+    text-align: center;
+}
+
+.navigate a:hover{
+    color: forestgreen;
+}
+
+.lambda{
+    background-size: contain;
+    
+}
+.firstsection{
+    display: flex;
+}
+
+span{
+    border:2px solid black ;
+    color: black ;
+    cursor: pointer;
+    font-size: 15px;
+    padding:10px 10px;
+    font-style: normal;
+    display: block;
+    text-align: center;
+    margin-right: 400px;
+    margin-top: 20px;
+    border-radius: 20%;
+}
+
+span:hover{
+    background-color: black;
+    color:white;
+    border-radius: 20%;
+}
+
+.jumbo{
+    width:100%;
+    padding: 10px 0;
+}
+
+.sec{
+    width: 100%;
+    padding: 10px 0;
+}
+
+.trd{
+    width: 100%;
+    padding: 10px 0;
+}
+
+.secondsection{
+    display: flex;
+}
+
+.second{
+    margin : 20px;
+    text-align: justify;
+}
+
+.thirdsection{
+    display: flex;
+}
+
+.third{
+    margin: 20px;
+    text-align: justify;
+}
+hr{
+    border: 1px dashed black;
+}
+
+footer{
+    display: block;
+    text-align:left;
+    background-color: black;
+    padding: 10px 0;
+    margin-top: 30px;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+    margin: 40px;
+    text-align: center;
+}
+
+footer a:hover{
+    color: red;
+}
